@@ -2,7 +2,7 @@
 Unlock doors with your phone
 
 
-If the custom App in {{folder name}} is not working, use this third-party app to talk to the Arduino: 
+If the custom App in Android_Phlock is not working, use this third-party app to talk to the Arduino: 
 https://play.google.com/store/apps/details?id=nextprototypes.BTSerialController&hl=en
 
 For your Arduino circuit, first run the .ino file in the Arduino_Servo_Controller folder. 
