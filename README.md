@@ -7,5 +7,5 @@ https://play.google.com/store/apps/details?id=nextprototypes.BTSerialController&
 
 For your Arduino circuit, first run the .ino file in the Arduino_Servo_Controller folder. 
 THe .ino file Arduino_Phlock folder is currently working at time of writing but is still under development
-and the code may spontaneously explode.
+and the code may spontaneously change.
 
