@@ -1,4 +1,4 @@
-# phlock-june-2016
+# phlock-public
 
 [Blog Post About this project](http://blog.tomiwa.ca/phlock-my-hardware-startup-that-disappeared
 )
@@ -17,7 +17,9 @@ Code for the android app that can unlock the door, manage multiple keys and a ch
 
 Code for the arduino microcontoller and motor which controls the door deadbolt.
 
-Note: This code may be incomplete as its coming from a private repo and I haven't been able to go through all the files that need to be edited before they can be shared. If there is enough interest (i.e. you can just ask me over email, tomiwa@atila.ca , twitter [@tomiwa1a](https://twitter.com/tomiwa1a) or [open an issue](https://github.com/ademidun/phlock-public/issues)); I'll try and find time to go through and share more source code.
+Note: This code may be incomplete as its coming from a private repo and I haven't been able to go through all the files that need to be edited before they can be shared. 
+
+If there is enough interest (i.e. you can just ask me over email, tomiwa@atila.ca , twitter [@tomiwa1a](https://twitter.com/tomiwa1a) or [open an issue](https://github.com/ademidun/phlock-public/issues)); I'll try and find time to go through and share more source code.
 
 
 The code in the Android_Phlock folder can give different results based on what type of bluetooth module you are using , 
